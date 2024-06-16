@@ -1,8 +1,17 @@
 <div class='aboutCompany'>
-<div class='aboutCompany_title'>
-    <div class='aboutCompany_title-name'><p>О компании</p> <p>TASTY TOWN</p></div>
-    <div class='aboutCompany_title-definition'>Самая крупная сеть табачных магазинов в Республике Марий-Эл</div>
-</div>
-<div class='aboutCompany_subtitle'>
-    В магазинах TASTY TOWN всегда можно оценить новинки и приятно провести время. Вы получите качественный сервис вместе с оригинальной продукцией, потому что наша команда предана своим клиентам и отвечает за каждый проданный товар.
-</div>
+        <div class='aboutCompany_title'>
+            <div class='aboutCompany_title-name'>
+                О компании <p>TASTY TOWN</p>
+            </div>
+            <div class='aboutCompany_title-description'>
+                <p>В магазинах TASTY TOWN всегда можно оценить</p>
+                <p>новинки и приятно провести время. Вы получите</p>
+                <p>качественный сервис вместе с оригинальной</p>
+                <p>продукцией, потому что наша команда предана своим</p> 
+                <p>клиентам и отвечает за каждый проданный товар.</p>
+            </div>
+        </div>
+        <div class="aboutCompany_subtitle">
+            Самая крупная сеть табачных магазинов <p>в Республике Марий-Эл</p>   
+        </div>
+    </div>
