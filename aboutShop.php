@@ -1,6 +1,6 @@
 <div class='aboutCompany'>
 <div class='aboutCompany_title'>
-    <div class='aboutCompany_title-name'>О компании TASTY TOWN</div>
+    <div class='aboutCompany_title-name'><p>О компании</p> <p>TASTY TOWN</p></div>
     <div class='aboutCompany_title-definition'>Самая крупная сеть табачных магазинов в Республике Марий-Эл</div>
 </div>
 <div class='aboutCompany_subtitle'>
