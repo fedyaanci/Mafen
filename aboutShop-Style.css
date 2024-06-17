@@ -6,7 +6,7 @@
     padding: 0;
 }
 .aboutCompany{
-    height: 650px;
+    height: 450px;
     background-color: #a31b1b;
     color: white;
 }
@@ -45,3 +45,4 @@
     font-size: 60px;
     display: inline;
 }
+
